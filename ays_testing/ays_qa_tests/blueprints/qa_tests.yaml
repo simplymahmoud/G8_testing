@@ -1,0 +1,11 @@
+mailclient__main:
+  smtp.login: 'foudaa'
+  smtp.passwd: 'cockpit1'
+  smtp.server: 'smtp.sendgrid.net'
+  smtp.port: '587'
+smtp.sender: 'no-reply@greenitglobe.com'
+
+qatests__t1:
+  host    : 'du-conv-2-cpu-01'
+  testcmd : 'cd /root/org_quality/Environment_testing/performance\ testing/ && jspython Testsuite/1_Network_config_test/1_Network_conf_test.py'
+  sendto : 'tahai@codescalers.com'

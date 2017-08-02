@@ -1,0 +1,4 @@
+host = type:str
+telegram.channel = type:str
+mail.client = type:str consume:'mailclient'
+testcmd = type:str

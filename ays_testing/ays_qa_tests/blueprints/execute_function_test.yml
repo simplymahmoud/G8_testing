@@ -1,0 +1,11 @@
+mailclient__main:
+  smtp.login: 'foudaa'
+  smtp.passwd: 'cockpit1'
+  smtp.server: 'smtp.sendgrid.net'
+  smtp.port: '587'
+  smtp.sender: 'no-reply@greenitglobe.com'
+
+qatests__t1:
+  host    : 'du-conv-2-master'
+  testcmd : 'source /opt/jumpscale7/env.sh && cd ./org_quality && nosetests Openvcloud/ACL/a_basic_operations/acl_account_test.py:Read.test003_account_get_with_readonly_user'
+  sendto  : 'tahai@codescalers.com'

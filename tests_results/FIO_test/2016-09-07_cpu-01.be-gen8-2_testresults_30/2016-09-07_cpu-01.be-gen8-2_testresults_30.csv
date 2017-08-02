@@ -1,0 +1,21 @@
+VM_index,Machine,Test_type,IOPS(1),cpuload(1),Testruntime(1)
+1,774,randrw,20300,2.3%,30018 msec
+2,775,randrw,20217,1.9%,30044 msec
+3,776,randrw,14306,2.1%,30056 msec
+4,777,randrw,7775,1.9%,30128 msec
+5,778,randrw,11839,1.5%,30070 msec
+6,779,randrw,12540,2.0%,30052 msec
+7,780,randrw,13028,2.1%,30043 msec
+8,781,randrw,12963,2.1%,30125 msec
+9,782,randrw,9995,1.7%,30065 msec
+10,783,randrw,14490,2.1%,30042 msec
+11,784,randrw,12498,2.3%,30015 msec
+12,785,randrw,33588,4.4%,30040 msec
+13,786,randrw,9007,2.1%,30067 msec
+14,787,randrw,8329,2.2%,30046 msec
+15,788,randrw,8400,2.2%,30037 msec
+16,789,randrw,9221,2.1%,30387 msec
+17,790,randrw,8325,2.2%,30094 msec
+18,791,randrw,9158,2.3%,30082 msec
+19,792,randrw,7989,2.4%,30092 msec
+20,793,randrw,9414,2.3%,30039 msec

@@ -1,0 +1,7 @@
+termcolor
+requests
+paramiko
+configparser
+nose-testconfig
+nose
+git+https://github.com/gigforks/packet-python.git

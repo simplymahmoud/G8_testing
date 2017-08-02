@@ -1,0 +1,30 @@
+g8client__dubai:
+  g8.url: 'du-conv-2.demo.greenitglobe.com'
+  g8.login: 'gig'
+  g8.password: 'KrOe6gE9K5nCQdmretfXnj'
+  g8.account: 'gig'
+
+vdc__helloislam:
+  g8.client.name: 'dubai'              
+  maxMemoryCapacity: 2
+  maxVDiskCapacity: -1
+  maxCPUCapacity: -1
+  maxNASCapacity: 20
+  maxArchiveCapacity: 20
+  maxNetworkOptTransfer: 5
+  maxNetworkPeerTransfer: 15
+  maxNumPublicIP: 1
+                    
+node.ovc__vmislam1:
+    os.image: 'ubuntu 16.04 x64'
+    disk.size: 10
+    datadisks:
+        - 'name:disk1 size:50 type:normal'
+        - 'name:disk2 size:50 type:normal'
+    os.size: 2
+    ports:
+        - '139:139'
+        - '445:445'
+        - '137:137'
+        - '138:138'
+    vdc: 'helloislam'

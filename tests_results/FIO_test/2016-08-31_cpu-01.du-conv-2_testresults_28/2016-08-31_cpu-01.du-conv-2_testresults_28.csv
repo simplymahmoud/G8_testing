@@ -1,0 +1,3 @@
+VM_index,Machine,Test_type,IOPS(1),cpuload(1),Testruntime(1)
+1,1199,write,41165,1.8%,24869 msec
+2,1200,write,26182,2.4%,39100 msec

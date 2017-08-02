@@ -1,0 +1,5 @@
+VM:,28,creation time:,54.4, ,
+VM:,29,creation time:,55.76, ,
+VM_index,Machine,Test_type,IOPS(1),cpuload(1),Testruntime(1)
+1,28,write,81881,22.9%,52116 msec
+2,29,write,90039,38.5%,46389 msec

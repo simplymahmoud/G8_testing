@@ -1,0 +1,129 @@
+VM:,471,creation time:,61.07, ,
+VM:,472,creation time:,60.42, ,
+VM:,473,creation time:,58.82, ,
+VM:,474,creation time:,60.69, ,
+VM:,475,creation time:,61.99, ,
+VM:,476,creation time:,61.46, ,
+VM:,477,creation time:,61.04, ,
+VM:,478,creation time:,60.61, ,
+VM:,479,creation time:,64.89, ,
+VM:,480,creation time:,68.17, ,
+VM:,481,creation time:,65.73, ,
+VM:,482,creation time:,60.21, ,
+VM_index,Machine,Test_type,IOPS(1),cpuload(1),Testruntime(1)
+1,471,write,23836,35.6%,134160 msec
+2,472,write,23805,36.9%,130951 msec
+3,473,write,26004,40.0%,119184 msec
+4,474,write,24295,44.6%,129197 msec
+VM_index,Machine,Test_type,IOPS(2),cpuload(2),Testruntime(2)
+1,471,write,18011,22.9%,171039 msec
+2,472,write,20716,23.0%,148960 msec
+3,473,write,23238,23.7%,133178 msec
+4,474,write,19898,24.8%,156702 msec
+5,475,write,19719,34.1%,158111 msec
+6,476,write,21725,36.3%,144768 msec
+7,477,write,18723,40.0%,167664 msec
+8,478,write,17497,40.5%,178449 msec
+VM_index,Machine,Test_type,IOPS(3),cpuload(3),Testruntime(3)
+1,471,write,15087,17.1%,204630 msec
+2,472,write,13784,16.6%,224884 msec
+3,473,write,17497,16.4%,177326 msec
+4,474,write,14721,18.2%,210500 msec
+5,475,write,13961,20.8%,224108 msec
+6,476,write,17392,20.7%,179950 msec
+7,477,write,14804,22.6%,209964 msec
+8,478,write,14864,23.5%,210023 msec
+9,479,write,13344,32.7%,233798 msec
+10,480,write,16670,35.1%,187352 msec
+11,481,write,14218,38.0%,218485 msec
+12,482,write,14413,38.1%,214358 msec
+VM_index,Machine,Test_type,IOPS(4),cpuload(4),Testruntime(4)
+1,471,write,14692,14.8%,209296 msec
+2,472,write,18866,14.9%,163501 msec
+3,473,write,17611,13.9%,177296 msec
+4,474,write,14482,16.1%,214957 msec
+5,476,write,17853,16.2%,173538 msec
+6,477,write,14280,17.6%,217158 msec
+7,478,write,14424,18.1%,213420 msec
+8,479,write,18929,21.9%,164676 msec
+9,480,write,15658,20.1%,202973 msec
+10,481,write,14576,23.4%,211141 msec
+11,482,write,14406,22.4%,214930 msec
+VM_index,Machine,Test_type,IOPS(5),cpuload(5),Testruntime(5)
+1,471,write,14617,13.7%,211280 msec
+2,472,write,12945,13.6%,238254 msec
+3,473,write,17665,12.7%,176848 msec
+4,474,write,14543,15.0%,212282 msec
+5,475,write,12937,12.7%,238443 msec
+6,476,write,17206,13.9%,199542 msec
+7,477,write,14492,15.8%,213705 msec
+8,478,write,14314,16.0%,216423 msec
+9,479,write,12964,16.8%,240400 msec
+10,480,write,14102,15.7%,219937 msec
+11,481,write,14655,18.8%,210875 msec
+12,482,write,14178,17.8%,220139 msec
+VM_index,Machine,Test_type,IOPS(6),cpuload(6),Testruntime(6)
+1,471,write,14458,12.9%,216717 msec
+2,472,write,13074,13.3%,235387 msec
+3,473,write,13741,12.2%,227386 msec
+4,474,write,14166,14.1%,217774 msec
+5,475,write,13153,12.6%,234118 msec
+6,476,write,13890,13.3%,222555 msec
+7,477,write,14318,14.7%,217701 msec
+8,478,write,13981,14.6%,220191 msec
+9,479,write,13184,15.5%,234588 msec
+10,480,write,13906,14.5%,222726 msec
+11,481,write,14202,16.4%,218425 msec
+12,482,write,13979,15.6%,223177 msec
+VM_index,Machine,Test_type,IOPS(7),cpuload(7),Testruntime(7)
+1,471,write,13920,12.5%,222534 msec
+2,472,write,12775,13.2%,241962 msec
+3,473,write,16107,12.5%,191994 msec
+4,474,write,14455,13.8%,213307 msec
+5,475,write,12924,12.7%,239387 msec
+6,476,write,16369,13.6%,188557 msec
+7,477,write,14529,14.1%,215199 msec
+8,478,write,13340,14.0%,232847 msec
+9,479,write,12946,15.1%,237637 msec
+10,480,write,16595,14.5%,187927 msec
+11,481,write,14577,15.3%,212001 msec
+12,482,write,13555,14.4%,228216 msec
+VM_index,Machine,Test_type,IOPS(8),cpuload(8),Testruntime(8)
+1,471,write,14130,12.2%,218932 msec
+2,472,write,12890,13.0%,239250 msec
+3,473,write,16658,12.3%,186281 msec
+4,474,write,12839,13.7%,239956 msec
+5,475,write,12860,12.5%,242189 msec
+6,476,write,16757,13.0%,187172 msec
+7,477,write,12785,13.9%,240650 msec
+8,478,write,13874,13.6%,223103 msec
+9,479,write,12962,14.4%,238560 msec
+10,480,write,17279,13.6%,180305 msec
+11,481,write,12784,14.7%,241240 msec
+12,482,write,13661,13.8%,226034 msec
+VM_index,Machine,Test_type,IOPS(9),cpuload(9),Testruntime(9)
+1,471,write,13766,12.0%,224718 msec
+2,472,write,12826,12.8%,241790 msec
+3,473,write,16818,12.1%,187112 msec
+4,474,write,14269,13.7%,216791 msec
+5,475,write,12877,12.3%,239298 msec
+6,476,write,16800,12.7%,187088 msec
+7,477,write,14299,13.9%,215466 msec
+8,478,write,13452,13.2%,230014 msec
+9,479,write,12895,13.9%,239117 msec
+10,480,write,17080,12.9%,182897 msec
+11,481,write,14313,14.5%,216610 msec
+12,482,write,13337,13.5%,233503 msec
+VM_index,Machine,Test_type,IOPS(10),cpuload(10),Testruntime(10)
+1,471,write,14300,11.9%,217803 msec
+2,472,write,12900,12.6%,239462 msec
+3,473,write,16405,11.8%,189724 msec
+4,474,write,14146,13.5%,222855 msec
+5,475,write,12895,12.2%,239097 msec
+6,476,write,16299,12.2%,190217 msec
+7,477,write,13927,13.7%,221456 msec
+8,478,write,13726,13.1%,227765 msec
+9,479,write,12851,13.6%,240051 msec
+10,480,write,16467,12.3%,188560 msec
+11,481,write,14189,14.1%,217436 msec
+12,482,write,13815,13.2%,223795 msec
